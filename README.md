@@ -37,620 +37,771 @@ Figma
 
 ## CODE:
 ```
-div class="frame-1">
-  <img class="rectangle-1" src="rectangle-10.svg" />
-  <div class="rectangle-2"></div>
-  <div class="rectangle-4"></div>
-  <div class="rectangle-5"></div>
-  <div class="rectangle-3"></div>
-  <div class="rectangle-6"></div>
-  <img class="sec-logo-1-1" src="sec-logo-1-10.png" />
-  <img class="sec-logo-01-as-1" src="sec-logo-01-as-10.png" />
-  <div class="sportsday-events">SPORTSDAY EVENTS</div>
-  <div class="login">LOGIN</div>
-  <div class="register">REGISTER</div>
-  <img class="web-logo-01-1" src="web-logo-01-10.png" />
+Home page-1
+<div class="container--0-">
+  
+  <svg
+    width="361"
+    height="79"
+    viewBox="0 0 361 79"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g filter="url(#filter0_dd_1_71)">
+      <rect x="18" y="10" width="325" height="43" fill="#54FFE2"></rect>
+      <rect x="18.5" y="10.5" width="324" height="42" stroke="black"></rect>
+    </g>
+    <defs>
+      <filter
+        id="filter0_dd_1_71"
+        x="0"
+        y="0"
+        width="361"
+        height="79"
+        filterUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB"
+      >
+        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+        <feColorMatrix
+          in="SourceAlpha"
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+          result="hardAlpha"
+        ></feColorMatrix>
+        <feOffset dy="4"></feOffset>
+        <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+        <feColorMatrix
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"
+        ></feColorMatrix>
+        <feBlend
+          mode="normal"
+          in2="BackgroundImageFix"
+          result="effect1_dropShadow_1_71"
+        ></feBlend>
+        <feColorMatrix
+          in="SourceAlpha"
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+          result="hardAlpha"
+        ></feColorMatrix>
+        <feMorphology
+          radius="6"
+          operator="dilate"
+          in="SourceAlpha"
+          result="effect2_dropShadow_1_71"
+        ></feMorphology>
+        <feOffset dy="8"></feOffset>
+        <feGaussianBlur stdDeviation="6"></feGaussianBlur>
+        <feColorMatrix
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+        ></feColorMatrix>
+        <feBlend
+          mode="normal"
+          in2="effect1_dropShadow_1_71"
+          result="effect2_dropShadow_1_71"
+        ></feBlend>
+        <feBlend
+          mode="normal"
+          in="SourceGraphic"
+          in2="effect2_dropShadow_1_71"
+          result="shape"
+        ></feBlend>
+      </filter>
+    </defs></svg>
+    <svg>
+    width="361"
+    height="79"
+    viewBox="0 0 361 79"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g filter="url(#filter0_dd_1_80)">
+      <rect x="18" y="10" width="325" height="43" fill="#54FFE2"></rect>
+      <rect x="18.5" y="10.5" width="324" height="42" stroke="black"></rect>
+    </g>
+    <defs>
+      <filter
+        id="filter0_dd_1_80"
+        x="0"
+        y="0"
+        width="361"
+        height="79"
+        filterUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB"
+      >
+        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+        <feColorMatrix
+          in="SourceAlpha"
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+          result="hardAlpha"
+        ></feColorMatrix>
+        <feOffset dy="4"></feOffset>
+        <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+        <feColorMatrix
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"
+        ></feColorMatrix>
+        <feBlend
+          mode="normal"
+          in2="BackgroundImageFix"
+          result="effect1_dropShadow_1_80"
+        ></feBlend>
+        <feColorMatrix
+          in="SourceAlpha"
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+          result="hardAlpha"
+        ></feColorMatrix>
+        <feMorphology
+          radius="6"
+          operator="dilate"
+          in="SourceAlpha"
+          result="effect2_dropShadow_1_80"
+        ></feMorphology>
+        <feOffset dy="8"></feOffset>
+        <feGaussianBlur stdDeviation="6"></feGaussianBlur>
+        <feColorMatrix
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+        ></feColorMatrix>
+        <feBlend
+          mode="normal"
+          in2="effect1_dropShadow_1_80"
+          result="effect2_dropShadow_1_80"
+        ></feBlend>
+        <feBlend
+          mode="normal"
+          in="SourceGraphic"
+          in2="effect2_dropShadow_1_80"
+          result="shape"
+        ></feBlend>
+      </filter>
+    </defs>
+  </svg>
+  <div class="text-0-1-4"></div>
+  <div class="text-0-1-5">LOGIN</div>
+  <div class="text-0-1-6">REGISTER</div>
+  <div class="text-0-1-7">CULTURAL EVENTS</div>
 </div>
-
-
-
-
-
-
-frame-1,
-.frame-1 * {
-  box-sizing: border-box;
-}
-.frame-1 {
-  background: #d0f3f7;
-  width: 215px;
-  height: 402px;
-  position: relative;
-}
-.rectangle-1 {
-  width: 100px;
-  height: 100px;
+// css for homepage-1
+.container--0- {
   position: absolute;
-  left: 0px;
-  top: 208px;
-  overflow: visible;
+  left: 282px;
+  top: -483px;
+  width: 429px;
+  height: 952px;
+  background-color: #f9e7fa;
+  justify-content: start;
+  align-items: start;
 }
-.rectangle-2 {
-  background: #d9d9d9;
-  width: 127px;
-  height: 34px;
-  position: absolute;
-  left: 41px;
-  top: 247px;
-}
-.rectangle-4 {
-  background: #d9d9d9;
-  width: 127px;
-  height: 34px;
-  position: absolute;
-  left: 41px;
-  top: 247px;
-}
-.rectangle-5 {
-  background: #d9d9d9;
-  width: 127px;
-  height: 34px;
-  position: absolute;
-  left: 41px;
-  top: 247px;
-}
-.rectangle-3 {
-  background: #d9d9d9;
-  width: 127px;
-  height: 32px;
-  position: absolute;
-  left: 41px;
-  top: 292px;
-}
-.rectangle-6 {
-  background: #d9d9d9;
-  width: 144px;
-  height: 19px;
-  position: absolute;
-  left: 30px;
-  top: 189px;
-}
-.sec-logo-1-1 {
-  width: 75px;
-  height: 72px;
-  position: absolute;
-  left: 66px;
-  top: 95px;
-  object-fit: cover;
-}
-.sec-logo-01-as-1 {
-  width: 1px;
-  height: 1px;
-  position: absolute;
-  left: 26px;
-  top: 22px;
-  object-fit: cover;
-}
-.sportsday-events {
+.text-0-1-4 {
+  width: 326px;
+  height: 36px;
   color: #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 12px;
-  font-weight: 400;
-  position: absolute;
-  left: 33px;
-  top: 189px;
-  width: 141px;
-  height: 26px;
+  vertical-align: top;
 }
-.login {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 12px;
-  font-weight: 400;
-  position: absolute;
-  left: 51px;
-  top: 259px;
-  width: 109px;
-  height: 14px;
-}
-.register {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 12px;
-  font-weight: 400;
-  position: absolute;
-  left: 59px;
-  top: 304px;
-  width: 91px;
-  height: 15px;
-}
-.web-logo-01-1 {
-  width: 153px;
-  height: 22px;
-  position: absolute;
-  left: 30px;
-  top: 29px;
-  object-fit: cover;
-}
-
-
-
-
-
-<div class="frame-2">
-    <div class="sports-day-events">SPORTS DAY EVENTS</div>
-    <div class="cricket">
-      <ul class="cricket-span">
-        <li>CRICKET</li>
-      </ul>
-    </div>
-    <div class="text"></div>
-    <div class="_4-100-relay">
-      <ul class="_4-100-relay-span">
-        <li>4-100 RELAY</li>
-      </ul>
-    </div>
-    <div class="badminton">
-      <ul class="badminton-span">
-        <li>BADMINTON</li>
-      </ul>
-    </div>
-    <div class="volley-ball">
-      <ul class="volley-ball-span">
-        <li>VOLLEY BALL</li>
-      </ul>
-    </div>
-    <div class="_100-mts">
-      <ul class="_100-mts-span">
-        <li>100 MTS</li>
-      </ul>
-    </div>
-    <div class="_200-mts">
-      <span>
-        <ul class="_200-mts-span">
-          <li>200 MTS</li>
-        </ul>
-        <span class="_200-mts-span2">
-          <br />
-        </span>
-      </span>
-    </div>
-    <div class="_400-mts">
-      <ul class="_400-mts-span">
-        <li>400 MTS</li>
-      </ul>
-    </div>
-  </div>
-
-  
-
-
-
-
-  .frame-2,
-.frame-2 * {
-  box-sizing: border-box;
-}
-.frame-2 {
-  background: #a8f4fd;
-  width: 215px;
-  height: 402px;
-  position: relative;
-  overflow: hidden;
-}
-.sports-day-events {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 12px;
-  font-weight: 400;
-  position: absolute;
-  left: 30px;
-  top: 32px;
-  width: 143px;
-  height: 28px;
-}
-.cricket {
-  color: #aa0e0e;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 30px;
-  top: 72px;
-  width: 138px;
-  height: 27px;
-}
-.text {
-  color: #aa0e0e;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 30px;
-  top: 72px;
-  width: 138px;
-  height: 34px;
-}
-._4-100-relay {
-  color: #aa0e0e;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 24px;
-  top: 276px;
-  width: 138px;
-  height: 27px;
-}
-.badminton {
-  color: #aa0e0e;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 26px;
-  top: 106px;
-  width: 138px;
-  height: 27px;
-}
-.volley-ball {
-  color: #aa0e0e;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 24px;
-  top: 140px;
-  width: 138px;
-  height: 27px;
-}
-._100-mts {
-  color: #aa0e0e;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 24px;
-  top: 174.41px;
-  width: 138px;
-  height: 27px;
-  transform-origin: 0 0;
-  transform: rotate(-0.169deg) scale(1, 1);
-}
-._200-mts {
-  color: #aa0e0e;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 24px;
-  top: 208.41px;
-  width: 138px;
-  height: 27px;
-  transform-origin: 0 0;
-  transform: rotate(-0.169deg) scale(1, 1);
-}
-._200-mts-span {
-  color: #aa0e0e;
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-}
-._200-mts-span2 {
-  color: #aa0e0e;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-}
-._400-mts {
-  color: #b31818;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 26px;
-  top: 242px;
-  width: 90px;
-  height: 14px;
-}
-
-
-
-
-
-
-<div class="frame-3">
-    <div class="event-registration-form">EVENT REGISTRATION FORM</div>
-    <div class="fill-the-details">FILL THE DETAILS</div>
-    <div class="text">
-      <br />
-    </div>
-    <div class="rectangle-7"></div>
-    <div class="rectangle-8"></div>
-    <div class="rectangle-9"></div>
-    <div class="rectangle-10"></div>
-    <div class="rectangle-11"></div>
-    <div class="rectangle-12"></div>
-    <div class="full-name">FULL NAME</div>
-    <div class="gender">GENDER</div>
-    <div class="age">AGE</div>
-    <div class="email-id">EMAIL ID</div>
-    <div class="department">DEPARTMENT</div>
-  </div>
-
-  
-
-
-
-
-
-  .frame-3,
-.frame-3 * {
-  box-sizing: border-box;
-}
-.frame-3 {
-  background: #86e8fb;
-  width: 215px;
-  height: 402px;
-  position: relative;
-  overflow: hidden;
-}
-.event-registration-form {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  position: absolute;
-  left: 9px;
-  top: 26px;
-  width: 199px;
-  height: 16px;
-}
-.fill-the-details {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 11px;
-  font-weight: 400;
-  position: absolute;
-  left: 27px;
-  top: 54px;
-  width: 146px;
-  height: 8px;
-}
-.text {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 11px;
-  font-weight: 400;
-  position: absolute;
-  left: 37px;
-  top: 147px;
-  width: 144px;
-  height: 17px;
-}
-.rectangle-7 {
-  background: #d9d9d9;
-  width: 117px;
+.text-0-1-5 {
+  width: 325px;
   height: 35px;
-  position: absolute;
-  left: 49px;
-  top: 120px;
-}
-.rectangle-8 {
-  background: #d9d9d9;
-  width: 117px;
-  height: 35px;
-  position: absolute;
-  left: 49px;
-  top: 183px;
-}
-.rectangle-9 {
-  background: #d9d9d9;
-  width: 117px;
-  height: 35px;
-  position: absolute;
-  left: 49px;
-  top: 237px;
-}
-.rectangle-10 {
-  background: #d9d9d9;
-  width: 117px;
-  height: 35px;
-  position: absolute;
-  left: 49px;
-  top: 237px;
-}
-.rectangle-11 {
-  background: #d9d9d9;
-  width: 117px;
-  height: 35px;
-  position: absolute;
-  left: 49px;
-  top: 300px;
-}
-.rectangle-12 {
-  background: #d9d9d9;
-  width: 117px;
-  height: 35px;
-  position: absolute;
-  left: 49px;
-  top: 354px;
-}
-.full-name {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 11px;
+  color: #6a40e0;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
   font-weight: 400;
-  position: absolute;
-  left: 63px;
-  top: 128px;
-  width: 90px;
-  height: 11px;
-}
-.gender {
-  color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 11px;
-  font-weight: 400;
-  position: absolute;
-  left: 68px;
-  top: 201px;
-  width: 85px;
-  height: 9px;
+  vertical-align: top;
 }
-.age {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 11px;
-  font-weight: 400;
-  position: absolute;
-  left: 68px;
-  top: 255px;
-  width: 85px;
-  height: 8px;
-}
-.email-id {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 11px;
-  font-weight: 400;
-  position: absolute;
-  left: 71px;
-  top: 320px;
-  width: 82px;
-  height: 7px;
-}
-.department {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 11px;
-  font-weight: 400;
-  position: absolute;
-  left: 71px;
-  top: 372px;
-  width: 82px;
-  height: 11px;
-}
-
-
-
-
-<div class="frame-4">
-    <div class="rectangle-13"></div>
-    <div class="thank-you">THANK YOU</div>
-    <div
-      class="we-are-all-eagerly-waiting-for-your-participation-in-the-sports-events"
-    >
-      <span>
-        <span
-          class="we-are-all-eagerly-waiting-for-your-participation-in-the-sports-events-span"
-        >
-          W
-        </span>
-        <span
-          class="we-are-all-eagerly-waiting-for-your-participation-in-the-sports-events-span2"
-        >
-          e are all eagerly waiting
-          <br />
-          for your participation in the sports events
-        </span>
-      </span>
-    </div>
-    <img class="web-logo-01-2" src="web-logo-01-20.png" />
-  </div>
-
-  
-
-
-
-
-
-  .frame-4,
-.frame-4 * {
-  box-sizing: border-box;
-}
-.frame-4 {
-  background: #64e6ed;
-  width: 215px;
-  height: 402px;
-  position: relative;
-  overflow: hidden;
-}
-.rectangle-13 {
-  background: #d9d9d9;
-  width: 145px;
+.text-0-1-6 {
+  width: 326px;
   height: 38px;
-  position: absolute;
-  left: 43px;
-  top: 132px;
-}
-.thank-you {
-  color: #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  position: absolute;
-  left: 61px;
-  top: 138px;
-  width: 112px;
-  height: 26px;
+  vertical-align: top;
 }
-.we-are-all-eagerly-waiting-for-your-participation-in-the-sports-events {
+.text-0-1-7 {
+  width: 329px;
+  height: 54px;
   color: #000000;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px 0 #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
   text-align: left;
+  vertical-align: top;
+}
+page-2
+<div class="container--0-">
+ <svg
+    width="30"
+    height="31"
+    viewBox="0 0 30 31"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M15 0L18.3677 11.7467L29.2658 11.7467L20.4491 19.0066L23.8168 30.7533L15 23.4934L6.18322 30.7533L9.55093 19.0066L0.734152 11.7467L11.6323 11.7467L15 0Z"
+      fill="#161313"
+    ></path>
+  </svg>
+  <div class="text-0-1-2">SINGING<br /></div>
+  <svg
+    width="30"
+    height="31"
+    viewBox="0 0 30 31"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M15 0L18.3677 11.7467L29.2658 11.7467L20.4491 19.0066L23.8168 30.7533L15 23.4934L6.18322 30.7533L9.55093 19.0066L0.734152 11.7467L11.6323 11.7467L15 0Z"
+      fill="#221E1E"
+    ></path></svg
+  ><svg
+    width="30"
+    height="31"
+    viewBox="0 0 30 31"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M15 0L18.3677 11.7467L29.2658 11.7467L20.4491 19.0066L23.8168 30.7533L15 23.4934L6.18322 30.7533L9.55093 19.0066L0.734152 11.7467L11.6323 11.7467L15 0Z"
+      fill="#221B1B"
+    ></path>
+  </svg>
+  <div class="text-0-1-5">CULTURAL EVENTS<br /><br /></div>
+  <div class="text-0-1-6">DANCING</div>
+  <div class="text-0-1-7">PAINTING</div>
+  <svg
+    width="30"
+    height="31"
+    viewBox="0 0 30 31"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M15 0L18.3677 11.7467L29.2658 11.7467L20.4491 19.0066L23.8168 30.7533L15 23.4934L6.18322 30.7533L9.55093 19.0066L0.734152 11.7467L11.6323 11.7467L15 0Z"
+      fill="#151313"
+    ></path>
+  </svg>
+  <div class="text-0-1-9">RAMP WALK</div>
+  <svg
+    width="30"
+    height="31"
+    viewBox="0 0 30 31"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M15 0L18.3677 11.7467L29.2658 11.7467L20.4491 19.0066L23.8168 30.7533L15 23.4934L6.18322 30.7533L9.55093 19.0066L0.734152 11.7467L11.6323 11.7467L15 0Z"
+      fill="#131111"
+    ></path>
+  </svg>
+  <div class="text-0-1-11">FASHION SHOW</div>
+  <svg
+    width="30"
+    height="31"
+    viewBox="0 0 30 31"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M15 0L18.3677 11.7467L29.2658 11.7467L20.4491 19.0066L23.8168 30.7533L15 23.4934L6.18322 30.7533L9.55093 19.0066L0.734152 11.7467L11.6323 11.7467L15 0Z"
+      fill="#221F1F"
+    ></path>
+  </svg>
+  <div class="text-0-1-13">LIVE CONCERT</div>
+</div>
+// css for page-2
+.container--0- {
   position: absolute;
-  left: 25px;
-  top: 201px;
-  width: 177px;
-  height: 65px;
+  left: 742px;
+  top: -483px;
+  width: 430px;
+  height: 952px;
+  background-color: #f6e8f4;
+  justify-content: start;
+  align-items: start;
 }
-.we-are-all-eagerly-waiting-for-your-participation-in-the-sports-events-span {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 14px;
+.text-0-1-2 {
+  width: 287px;
+  height: 63px;
+  color: #0c676f;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
   font-weight: 400;
+  text-align: left;
+  vertical-align: top;
 }
-.we-are-all-eagerly-waiting-for-your-participation-in-the-sports-events-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 13px;
+.text-0-1-5 {
+  width: 331px;
+  height: 87px;
+  color: #c014a3;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+  backdrop-filter: blur(4px);
+  font-size: 36px;
+  font-family: Roboto, "Regular";
   font-weight: 400;
+  text-align: left;
+  vertical-align: top;
 }
-.web-logo-01-2 {
-  width: 153px;
-  height: 22px;
+.text-0-1-6 {
+  width: 211px;
+  height: 44px;
+  color: #0d756b;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-7 {
+  width: 244px;
+  height: 49px;
+  color: #0b616e;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-9 {
+  width: 219px;
+  height: 50px;
+  color: #0e6475;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-11 {
+  width: 319px;
+  height: 37px;
+  color: #096e70;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-13 {
+  width: 298px;
+  height: 44px;
+  color: #0e5c5a;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+page-3
+
+<div class="container--0-">
+  <div class="text-0-1-1">REGISTRATION FORM</div>
+  <svg
+    width="321"
+    height="49"
+    viewBox="0 0 321 49"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g filter="url(#filter0_d_9_33)">
+      <rect x="4" width="313" height="41" fill="#F3D3D3"></rect>
+    </g>
+    <defs>
+      <filter
+        id="filter0_d_9_33"
+        x="0"
+        y="0"
+        width="321"
+        height="49"
+        filterUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB"
+      >
+        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+        <feColorMatrix
+          in="SourceAlpha"
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+          result="hardAlpha"
+        ></feColorMatrix>
+        <feOffset dy="4"></feOffset>
+        <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+        <feComposite in2="hardAlpha" operator="out"></feComposite>
+        <feColorMatrix
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+        ></feColorMatrix>
+        <feBlend
+          mode="normal"
+          in2="BackgroundImageFix"
+          result="effect1_dropShadow_9_33"
+        ></feBlend>
+        <feBlend
+          mode="normal"
+          in="SourceGraphic"
+          in2="effect1_dropShadow_9_33"
+          result="shape"
+        ></feBlend>
+      </filter>
+    </defs></svg
+  ><svg
+    width="321"
+    height="49"
+    viewBox="0 0 321 49"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g filter="url(#filter0_d_9_34)">
+      <path d="M4 0H317V41H4V0Z" fill="#EFCCCC"></path>
+    </g>
+    <defs>
+      <filter
+        id="filter0_d_9_34"
+        x="0"
+        y="0"
+        width="321"
+        height="49"
+        filterUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB"
+      >
+        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+        <feColorMatrix
+          in="SourceAlpha"
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+          result="hardAlpha"
+        ></feColorMatrix>
+        <feOffset dy="4"></feOffset>
+        <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+        <feComposite in2="hardAlpha" operator="out"></feComposite>
+        <feColorMatrix
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+        ></feColorMatrix>
+        <feBlend
+          mode="normal"
+          in2="BackgroundImageFix"
+          result="effect1_dropShadow_9_34"
+        ></feBlend>
+        <feBlend
+          mode="normal"
+          in="SourceGraphic"
+          in2="effect1_dropShadow_9_34"
+          result="shape"
+        ></feBlend>
+      </filter>
+    </defs></svg
+  ><svg
+    width="321"
+    height="49"
+    viewBox="0 0 321 49"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g filter="url(#filter0_d_9_36)">
+      <rect x="4" width="313" height="41" fill="#E7D3D3"></rect>
+    </g>
+    <defs>
+      <filter
+        id="filter0_d_9_36"
+        x="0"
+        y="0"
+        width="321"
+        height="49"
+        filterUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB"
+      >
+        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+        <feColorMatrix
+          in="SourceAlpha"
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+          result="hardAlpha"
+        ></feColorMatrix>
+        <feOffset dy="4"></feOffset>
+        <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+        <feComposite in2="hardAlpha" operator="out"></feComposite>
+        <feColorMatrix
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+        ></feColorMatrix>
+        <feBlend
+          mode="normal"
+          in2="BackgroundImageFix"
+          result="effect1_dropShadow_9_36"
+        ></feBlend>
+        <feBlend
+          mode="normal"
+          in="SourceGraphic"
+          in2="effect1_dropShadow_9_36"
+          result="shape"
+        ></feBlend>
+      </filter>
+    </defs></svg
+  ><svg
+    width="321"
+    height="49"
+    viewBox="0 0 321 49"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g filter="url(#filter0_d_9_37)">
+      <rect x="4" width="313" height="41" fill="#EBCACA"></rect>
+    </g>
+    <defs>
+      <filter
+        id="filter0_d_9_37"
+        x="0"
+        y="0"
+        width="321"
+        height="49"
+        filterUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB"
+      >
+        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+        <feColorMatrix
+          in="SourceAlpha"
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+          result="hardAlpha"
+        ></feColorMatrix>
+        <feOffset dy="4"></feOffset>
+        <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+        <feComposite in2="hardAlpha" operator="out"></feComposite>
+        <feColorMatrix
+          type="matrix"
+          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+        ></feColorMatrix>
+        <feBlend
+          mode="normal"
+          in2="BackgroundImageFix"
+          result="effect1_dropShadow_9_37"
+        ></feBlend>
+        <feBlend
+          mode="normal"
+          in="SourceGraphic"
+          in2="effect1_dropShadow_9_37"
+          result="shape"
+        ></feBlend>
+      </filter>
+    </defs></svg
+  ><svg
+    width="313"
+    height="41"
+    viewBox="0 0 313 41"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <rect width="313" height="41" fill="#F0D4D4"></rect>
+  </svg>
+  <div class="text-0-1-7">Type of event</div>
+  <div class="text-0-1-8">Name</div>
+  <div class="text-0-1-9">Department</div>
+  <div class="text-0-1-10">Mobile number</div>
+  <div class="text-0-1-11">Date of event</div>
+  <svg
+    width="372"
+    height="110"
+    viewBox="0 0 372 110"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g filter="url(#filter0_f_9_50)">
+      <rect x="5" y="5" width="362" height="100" fill="#DDA1A2"></rect>
+      <rect x="5" y="5" width="362" height="100" stroke="black"></rect>
+    </g>
+    <defs>
+      <filter
+        id="filter0_f_9_50"
+        x="0.5"
+        y="0.5"
+        width="371"
+        height="109"
+        filterUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB"
+      >
+        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+        <feBlend
+          mode="normal"
+          in="SourceGraphic"
+          in2="BackgroundImageFix"
+          result="shape"
+        ></feBlend>
+        <feGaussianBlur
+          stdDeviation="2"
+          result="effect1_foregroundBlur_9_50"
+        ></feGaussianBlur>
+      </filter>
+    </defs>
+  </svg>
+  <div class="text-0-1-13">SUBMIT</div>
+</div>
+// css for page-3
+.container--0- {
   position: absolute;
-  left: 25px;
-  top: 21px;
-  object-fit: cover;
+  left: 1211px;
+  top: -483px;
+  width: 430px;
+  height: 952px;
+  background-color: #fae8fa;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-1 {
+  width: 405px;
+  height: 66px;
+  color: #45279e;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px 0 #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-7 {
+  width: 310px;
+  height: 38px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-8 {
+  width: 313px;
+  height: 48px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-9 {
+  width: 314px;
+  height: 38px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-10 {
+  width: 310px;
+  height: 32px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-11 {
+  width: 310px;
+  height: 35px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-13 {
+  width: 365px;
+  height: 97px;
+  color: #dd3f33;
+  font-size: 64px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+
+Page-4
+
+<div class="container--0-">
+  />
+  <div class="text-0-1-1">VENUE</div>
+  <div class="text-0-1-2">1st floor,Saveetha engineering college,Thandalam</div>
+  <div class="text-0-1-3">Thank you!</div>
+</div>
+// css for page-4
+
+.container--0- {
+  position: absolute;
+  left: 1681px;
+  top: -472px;
+  width: 429px;
+  height: 952px;
+  background-color: #f2dff2;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-1 {
+  width: 253px;
+  height: 51px;
+  color: #ca8585;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+  backdrop-filter: blur(4px);
+  font-size: 64px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-2 {
+  width: 399px;
+  height: 257px;
+  color: #000000;
+  font-size: 36px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
+}
+.text-0-1-3 {
+  width: 338px;
+  height: 72px;
+  color: #1ec3cc;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px 0 #000000;
+  font-size: 64px;
+  font-family: Roboto, "Regular";
+  font-weight: 400;
+  text-align: left;
+  vertical-align: top;
 }
 ```
 
 ## OUTPUT:
-![Screenshot 2025-05-13 114709](https://github.com/user-attachments/assets/2fb49dab-0f7b-43da-8e4c-6fa223f2895e)
+![Screenshot 2025-05-20 114656](https://github.com/user-attachments/assets/1bc8c14c-7e71-45c5-8c85-9b13961d9875)
+![Screenshot 2025-05-20 114711](https://github.com/user-attachments/assets/bdbef147-e622-4d3c-af6d-72de91ca8178)
+![Screenshot 2025-05-20 114721](https://github.com/user-attachments/assets/4b5c3a14-f4c2-4053-9e09-c06b3ffc8394)
+![Screenshot 2025-05-20 114732](https://github.com/user-attachments/assets/2c32bbcc-33a8-4b9d-a29d-3815bd3a7a1c)
+![Screenshot 2025-05-20 114743](https://github.com/user-attachments/assets/8473e324-2dfa-4a44-b2a5-1092225565d6)
+
 
 
 ## RESULT:
