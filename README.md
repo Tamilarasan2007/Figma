@@ -735,61 +735,13 @@ page-3
 Page-4
 
 <div class="container--0-">
-  />
   <div class="text-0-1-1">VENUE</div>
   <div class="text-0-1-2">1st floor,Saveetha engineering college,Thandalam</div>
   <div class="text-0-1-3">Thank you!</div>
 </div>
-// css for page-4
+ css for page-4
 
-.container--0- {
-  position: absolute;
-  left: 1681px;
-  top: -472px;
-  width: 429px;
-  height: 952px;
-  background-color: #f2dff2;
-  justify-content: start;
-  align-items: start;
-}
-.text-0-1-1 {
-  width: 253px;
-  height: 51px;
-  color: #ca8585;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #000000;
-  backdrop-filter: blur(4px);
-  font-size: 64px;
-  font-family: Roboto, "Regular";
-  font-weight: 400;
-  text-align: left;
-  vertical-align: top;
-}
-.text-0-1-2 {
-  width: 399px;
-  height: 257px;
-  color: #000000;
-  font-size: 36px;
-  font-family: Roboto, "Regular";
-  font-weight: 400;
-  text-align: left;
-  vertical-align: top;
-}
-.text-0-1-3 {
-  width: 338px;
-  height: 72px;
-  color: #1ec3cc;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #000000;
-  box-shadow: 0px 4px 4px 0 #000000;
-  font-size: 64px;
-  font-family: Roboto, "Regular";
-  font-weight: 400;
-  text-align: left;
-  vertical-align: top;
-}
+.
 
 '''
 
